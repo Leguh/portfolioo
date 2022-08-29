@@ -1222,7 +1222,11 @@ a {
 .cid-tc9T2bgzsE {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #f2f2f2;
+  background-image: url("../../../assets/images/milad-fakurian-7wuordicmsu-unsplash-1920x1280.jpeg");
+}
+.cid-tc9T2bgzsE .mbr-overlay {
+  background: #fafafa;
+  opacity: 0.1;
 }
 .cid-tc9T2bgzsE img,
 .cid-tc9T2bgzsE .item-img {
@@ -1264,7 +1268,7 @@ a {
   margin-top: auto !important;
 }
 .cid-tc9T2bgzsE .mbr-section-title {
-  color: #232323;
+  color: #f2f2f2;
 }
 .cid-tc9T2bgzsE .mbr-text,
 .cid-tc9T2bgzsE .mbr-section-btn {
